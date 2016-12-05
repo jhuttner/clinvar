@@ -20,7 +20,6 @@ QUEUE = Queue.Queue()
 TITLE = None
 
 
-
 class Extended(object):
 
     def __init__(self, soup):
